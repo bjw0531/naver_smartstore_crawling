@@ -1,0 +1,97 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/User/Gdrive/Documents/Projects/naver_smartstore_crawling/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/User/Gdrive/Documents/Projects/icon.png"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": true
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "imghdr"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "imgaug"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pyclipper"
+  },
+  {
+   "optionDest": "collect_data",
+   "value": "paddle"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "paddleocr"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "lmdb"
+  },
+  {
+   "optionDest": "collect_data",
+   "value": "Cython"
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/User/Gdrive/Documents/Projects/naver_smartstore_crawling/.venv/Lib/site-packages/paddle/libs/mklml.dll;."
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/User/Gdrive/Documents/Projects/naver_smartstore_crawling/.venv/Lib/site-packages/paddle/libs/libiomp5md.dll;."
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}

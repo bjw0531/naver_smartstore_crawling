@@ -1,0 +1,15 @@
+# 이미지, 데이터, 캐시, 빌드, 환경, 로그 등 무시
+*.png
+*.jpg
+*.ipynb
+.idea/
+.venv/
+__pycache__/
+build/
+dist/
+output/
+save/
+.env
+*.log
+.DS_Store
+Thumbs.db
